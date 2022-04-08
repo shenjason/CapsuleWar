@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3725a53632f6396478d60484310fe48e, type: 3}
+  m_Name: OldPistol
+  m_EditorClassIdentifier: 
+  itemname: OldPistol
+  itemImage: {fileID: 21300000, guid: 299a477a965561b408a01e4d49cdeaba, type: 3}
+  PickUpGameObject: {fileID: 1743206450461546755, guid: a667b315b5c9c9346994a579a0144575, type: 3}
+  MinDam: 10
+  Damage: 15
+  Recoil: 5
+  CritMultiplyer: 1.5
+  IntDamage: 1
+  GunRange: 50
+  GunReloadSpeed: 0.75
+  MagSize: 6
+  MagReloadSpeed: 2.75
+  HitOffset: 0.05
+  HitAimOffset: 0.03
+  Weight: 0.98
+  GunShake: 4
+  HitKnockBack: 20
+  GunAimFov: -25
+  AimOffset: {x: -0.6, y: 0.13, z: -0.1}

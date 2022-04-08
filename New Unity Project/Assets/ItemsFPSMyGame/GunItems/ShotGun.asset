@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3725a53632f6396478d60484310fe48e, type: 3}
+  m_Name: ShotGun
+  m_EditorClassIdentifier: 
+  itemname: ShotGun
+  itemImage: {fileID: 21300000, guid: 07e2073da66f3a646b348b0681471717, type: 3}
+  PickUpGameObject: {fileID: 1743206450461546755, guid: ff33a2583434d634faf25b63b4bbb5bc, type: 3}
+  MinDam: 8
+  Damage: 15
+  Recoil: 10
+  CritMultiplyer: 1.2
+  IntDamage: 1
+  GunRange: 10
+  GunReloadSpeed: 1.5
+  MagSize: 3
+  MagReloadSpeed: 5
+  HitOffset: 0.1
+  HitAimOffset: 0.05
+  Weight: 0.6
+  GunShake: 6
+  HitKnockBack: 10
+  GunAimFov: -20
+  AimOffset: {x: -0.6, y: 0.1, z: -0.2}

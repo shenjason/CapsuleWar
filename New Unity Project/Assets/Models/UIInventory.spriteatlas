@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIInventory
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 1
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 3
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 07e2073da66f3a646b348b0681471717, type: 3}
+    - {fileID: 2800000, guid: 9cc8f81a721bf7f4db130ad38a938acf, type: 3}
+    - {fileID: 2800000, guid: d39a97b780fd937449cb4999c24e7015, type: 3}
+    - {fileID: 2800000, guid: b1bf6d661d2700e4eb38ba08520f3331, type: 3}
+    - {fileID: 2800000, guid: 16b2334b0ab242540a4215cca8e77feb, type: 3}
+    - {fileID: 2800000, guid: 463b6daaa4706c64cae5c31ff864b839, type: 3}
+    - {fileID: 2800000, guid: 299a477a965561b408a01e4d49cdeaba, type: 3}
+    - {fileID: 2800000, guid: c8b34c877e0d3554a92fefd023fa0a08, type: 3}
+    - {fileID: 2800000, guid: 0bcd618c8282e7046b6e9ddb8d5eb1cc, type: 3}
+    - {fileID: 2800000, guid: da4140884b5995e4483f65675b963728, type: 3}
+    - {fileID: 2800000, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
+    - {fileID: 2800000, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  - {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
+  - {fileID: 21300000, guid: b1bf6d661d2700e4eb38ba08520f3331, type: 3}
+  - {fileID: 21300000, guid: c8b34c877e0d3554a92fefd023fa0a08, type: 3}
+  - {fileID: 21300000, guid: d39a97b780fd937449cb4999c24e7015, type: 3}
+  - {fileID: 21300000, guid: da4140884b5995e4483f65675b963728, type: 3}
+  - {fileID: 21300000, guid: 9cc8f81a721bf7f4db130ad38a938acf, type: 3}
+  - {fileID: 21300000, guid: 299a477a965561b408a01e4d49cdeaba, type: 3}
+  - {fileID: 21300000, guid: 463b6daaa4706c64cae5c31ff864b839, type: 3}
+  - {fileID: 21300000, guid: 16b2334b0ab242540a4215cca8e77feb, type: 3}
+  - {fileID: 21300000, guid: 0bcd618c8282e7046b6e9ddb8d5eb1cc, type: 3}
+  - {fileID: 21300000, guid: 07e2073da66f3a646b348b0681471717, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Square
+  - Circle
+  - AmmoIcon
+  - Pistol1Img
+  - AK-47
+  - Bar
+  - Sniper1UI
+  - OldPistolImg
+  - Heart
+  - HitIcon
+  - ItemFrame
+  - SG1
+  m_RenderDataMap: {}
+  m_Tag: UIInventory
+  m_IsVariant: 0
